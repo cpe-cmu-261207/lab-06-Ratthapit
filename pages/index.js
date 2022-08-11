@@ -66,7 +66,3 @@ export default function Home() {
     </div>
   );
 }
-
-{
-  /*Complete*/
-}
